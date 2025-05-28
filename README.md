@@ -89,17 +89,13 @@ Project built as part of B.Tech (CSE) curriculum at Techno India University.
 
 Contributor: Anushka
 
-Cinemaniac/
-│
-├── README.md
-├── /screenshots/
-│   ├── ![Home Page](![pic1](https://github.com/user-attachments/assets/064a5551-7c08-41b5-afa4-96bbb5c6dbdb)
-)
-│   ├── [Registration Page](screenshots/pic2.jpg)
-│   ├── [Contact Page](screenshots/pic3.jpg)
-│   ├── [login Page](screenshots/pic4.jpg)
-│   ├── [user_profile Page](screenshots/pic5.jpg)
-│   ├── [change_password Page](screenshots/pic6.jpg)
-│   ├── search.jpg
-│   ├── admin_dashboard.jpg
+### 🏠 Home Page
+![Home Page](screenshots/pic1.jpg)
+
+### 🔐 Login Page
+![Login Page](screenshots/pic2.jpg)
+
+### ✉️ Contact Us Page
+![Contact](screenshots/pic.jpg)
+
 
