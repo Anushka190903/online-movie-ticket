@@ -93,7 +93,8 @@ Cinemaniac/
 │
 ├── README.md
 ├── /screenshots/
-│   ├── ![Home Page](screenshots/pic1.jpg)
+│   ├── ![Home Page](![pic1](https://github.com/user-attachments/assets/064a5551-7c08-41b5-afa4-96bbb5c6dbdb)
+)
 │   ├── [Registration Page](screenshots/pic2.jpg)
 │   ├── [Contact Page](screenshots/pic3.jpg)
 │   ├── [login Page](screenshots/pic4.jpg)
