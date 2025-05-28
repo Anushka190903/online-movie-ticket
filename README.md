@@ -43,7 +43,7 @@ Deploy to Tomcat
 
 Copy the project folder to tomcat/webapps/.
 
-Start Tomcat server.
+ ## Start Tomcat server.
 
 Access the app
 
@@ -63,12 +63,13 @@ Add email notifications for booking confirmations
 
 Responsive mobile UI
 
-Analytics dashboard for admin
+## Analytics dashboard for admin
 
-📚 Acknowledgements
+## 📚 Acknowledgements
 This project was developed under the guidance of Mr. Amalendu Das (Webel - WBEIDC)
 with contributions from:
 
 👩‍💻 Anushka Bhattacharya
 
+## ![Home](https://raw.githubusercontent.com/Anushka190903/online-movie-ticket/refs/heads/main/pic.jpg)
 
