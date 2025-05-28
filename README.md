@@ -85,7 +85,7 @@ Configure Tomcat Server.
 
 Run the project and access via browser at http://localhost:8080/Cinemaniac
 🙌 Authors
-Project built as part of B.Tech (CSE) curriculum at Techno India University.
+Project built as part of B.Tech (CSE) curriculum at WEBEL.
 
 Contributor: Anushka
 
@@ -94,6 +94,7 @@ Contributor: Anushka
 Here’s a preview of the home page interface:
 
 ![Home Page](https://github.com/Anushka190903/online-movie-ticket/raw/main/pic.jpg)
+
 
 
 
