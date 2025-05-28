@@ -89,10 +89,7 @@ Project built as part of B.Tech (CSE) curriculum at WEBEL.
 
 Contributor: Anushka
 
-## 🏠 Home Page
-
-Here’s a preview of the home page interface:
-![Home page] (https://raw.githubusercontent.com/Anushka190903/online-movie-ticket/refs/heads/main/picture1.jpg)
+![Home page](https://raw.githubusercontent.com/Anushka190903/online-movie-ticket/refs/heads/main/picture1.jpg)
 
 
 
