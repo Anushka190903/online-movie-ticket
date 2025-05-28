@@ -1,6 +1,6 @@
 # 🎬 Cinemaniac – Online Movie Ticket Booking System
 
-**Academic Web Application Project**  
+**WEBEL Web Application Project**  
 _August 2024 – December 2024_
 
 ---
@@ -93,7 +93,8 @@ Contributor: Anushka
 
 Here’s a preview of the home page interface:
 
-![Home Page](https://github.com/Anushka190903/online-movie-ticket/blob/main/pic.jpg)
+![Home Page](https://raw.githubusercontent.com/Anushka190903/online-movie-ticket/main/pic.jpg)
+
 
 
 
