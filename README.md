@@ -1,98 +1,103 @@
-# 🎬 Cinemaniac – Online Movie Ticket Booking System
+🎬 Cinemaniac - Online Movie Ticket Booking System
+Cinemaniac is a Java-based web application built as a final year project to simulate an online movie ticket booking system. It allows users to register, log in, browse movies and theatres, and book tickets based on available showtimes. Admin users can manage theatres, movies, and bookings.
 
-**WEBEL Web Application Project**  
-_August 2024 – December 2024_
+📌 Features
+User Registration & Authentication
 
----
+Browse movies and theatres
 
-## 🛠 Tech Stack
+Real-time seat selection and booking
 
-- **Backend**: Java (J2EE), JSP, Servlets
-- **Database**: Oracle 10g via JDBC
-- **Frontend**: HTML, CSS, JavaScript
-- **Server**: Apache Tomcat
-- **IDE**: Eclipse
+Admin panel to manage movie and theatre listings
 
----
+Payment simulation and booking confirmation
 
-## 📋 Project Overview
+Password recovery and profile management
 
-Cinemaniac is a web-based application that simulates a real-world movie ticket booking experience. It allows users to explore movies, find theatres, book tickets, and manage profiles. It also includes an admin dashboard for managing movie data and user records.
+🚀 Tech Stack
+Frontend
+HTML
 
----
+CSS
 
-## ✨ Key Features
+JavaScript
 
-### 👤 User Side
-- Register and manage user profiles
-- Browse movies and showtimes
-- Live seat booking system with payment simulation
-- Password update and recovery features
+Backend
+Java (J2EE – JSP, Servlets)
 
-### 🛠 Admin Side
-- Add, delete, and modify movies, theatres, and showtimes
-- Clear old booking data
-- Secure login and password change functionality
+JDBC
 
----
+Database
+Oracle 10g
 
-## 📸 Screenshots
+Tools & Environment
+Eclipse (Mars)
 
-### 🔌 Connection Code (`Connection.jsp`)
-```jsp
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1" pageEncoding="ISO-8859-1"%>
-<%@ page import="java.util.*, java.sql.*" %>
-<%
-    Connection con;
-    Statement stmt;
-    Class.forName("oracle.jdbc.driver.OracleDriver").newInstance();
-    con = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:XE", "system", "tiger");
-    stmt = con.createStatement();
-%>
-🏠 Home Page
+Apache Tomcat 8.0
 
-📝 Registration Page
+Windows 10 OS
 
-✉️ Contact Us Page
+🛠 Setup & Installation
+Clone the Repository
 
-🔐 Login Page
+bash
+Copy
+Edit
+git clone https://github.com/your-username/cinemaniac.git
+Database Setup
 
-👤 User Profile
+Import the Oracle database schema from provided .sql files (not included here).
 
-🔄 Change Password
+Ensure the Oracle DB is running and accessible.
 
-🎥 Movie & Theatre Search
+Configure Database Connection
 
-🧑‍💼 Admin Dashboard & Password Change
+Modify Connection.jsp with your database credentials.
 
-🧠 System Architecture
-Follows MVC pattern:
+java
+Copy
+Edit
+con = DriverManager.getConnection(
+  "jdbc:oracle:thin:@localhost:1521:XE", "system", "tiger");
+Deploy on Tomcat
 
-Model: Oracle DB
+Copy the project folder into Tomcat's webapps/ directory.
 
-View: JSP
+Start Tomcat server.
 
-Controller: Servlets
+Run the Application
+Open your browser and navigate to:
 
-Deployed on Apache Tomcat for modular and scalable development
+bash
+Copy
+Edit
+http://localhost:8080/cinemaniac/
+🧪 Testing
+Manual and automated testing with Black-box, White-box, and Grey-box techniques.
 
-📌 How to Run
-Import the project into Eclipse.
+Login validation, seat availability checks, and user registration tested using simulated inputs.
 
-Setup Oracle 10g DB and run the required table creation scripts.
+🔒 Security & QA
+Basic validation and error-handling implemented
 
-Configure Tomcat Server.
+User-defined error messages for login and booking failures
 
-Run the project and access via browser at http://localhost:8080/Cinemaniac
-🙌 Authors
-Project built as part of B.Tech (CSE) curriculum at WEBEL.
+QA processes for usability, maintainability, and testability followed
 
-Contributor: Anushka
+📈 Future Scope
+Integration of real-time payment gateways
 
-![Home page](https://raw.githubusercontent.com/Anushka190903/online-movie-ticket/refs/heads/main/picture1.jpg)
+Enhanced seat arrangement visuals
 
+Mobile-friendly UI and native app support
 
+Integration at physical cinema counters
 
+🙏 Acknowledgements
+Special thanks to Mr. Amalendu Das from West Bengal Electronics Industry Development Corporation Limited for guidance and support.
 
+👨‍💻 Authors
+Anushka Bhattacharya
 
-
+Interface
+![Home](
