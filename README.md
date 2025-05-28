@@ -64,12 +64,37 @@ Add email notifications for booking confirmations
 Responsive mobile UI
 
 ## Analytics dashboard for admin
+## 🧪 Testing
+Manual and automated testing with Black-box, White-box, and Grey-box techniques.
+
+Login validation, seat availability checks, and user registration tested using simulated inputs.
+
+## 🔒 Security & QA
+Basic validation and error-handling implemented
+
+User-defined error messages for login and booking failures
+
+QA processes for usability, maintainability, and testability followed
+
+## 📈 Future Scope
+Integration of real-time payment gateways
+
+Enhanced seat arrangement visuals
+
+Mobile-friendly UI and native app support
+
+Integration at physical cinema counters
 
 ## 📚 Acknowledgements
 This project was developed under the guidance of Mr. Amalendu Das (Webel - WBEIDC)
 with contributions from:
 
 👩‍💻 Anushka Bhattacharya
-
+## Interfaces
 ## ![Home](https://raw.githubusercontent.com/Anushka190903/online-movie-ticket/refs/heads/main/pic.jpg)
+## ![Register and Contact ](https://raw.githubusercontent.com/Anushka190903/online-movie-ticket/refs/heads/main/pic2.jpg)
+## ![Login Page] (https://raw.githubusercontent.com/Anushka190903/online-movie-ticket/refs/heads/main/pic3.jpg)
+## ![User Profile](https://raw.githubusercontent.com/Anushka190903/online-movie-ticket/refs/heads/main/pic4.jpg)
+## ![Password Change](https://raw.githubusercontent.com/Anushka190903/online-movie-ticket/refs/heads/main/pic5.jpg)
+## ![Admin Page](https://raw.githubusercontent.com/Anushka190903/online-movie-ticket/refs/heads/main/pic7.jpg)
 
