@@ -90,7 +90,7 @@ Project built as part of B.Tech (CSE) curriculum at Techno India University.
 Contributor: Anushka
 
 ### 🏠 Home Page
-![Home Page](screenshots/pic1.jpg)
+![Home Page](screenshots/https://github.com/Anushka190903/online-movie-ticket/blob/main/pic.jpg)
 
 ### 🔐 Login Page
 ![Login Page](screenshots/pic2.jpg)
