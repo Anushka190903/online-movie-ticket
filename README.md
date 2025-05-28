@@ -92,7 +92,7 @@ Contributor: Anushka
 ## 🏠 Home Page
 
 Here’s a preview of the home page interface:
-![Home page] (https://raw.githubusercontent.com/Anushka190903/online-movie-ticket/refs/heads/main/pic.jpg)
+![Home page] (https://raw.githubusercontent.com/Anushka190903/online-movie-ticket/refs/heads/main/picture1.jpg)
 
 
 
