@@ -89,13 +89,11 @@ Project built as part of B.Tech (CSE) curriculum at Techno India University.
 
 Contributor: Anushka
 
-### 🏠 Home Page
-![Home Page](screenshots/https://github.com/Anushka190903/online-movie-ticket/blob/main/pic.jpg)
+## 🏠 Home Page
 
-### 🔐 Login Page
-![Login Page](screenshots/pic2.jpg)
+Here’s a preview of the home page interface:
 
-### ✉️ Contact Us Page
-![Contact](screenshots/pic.jpg)
+![Home Page](https://raw.githubusercontent.com/Anushka190903/online-movie-ticket/main/pic.jpg)
+
 
 
