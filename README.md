@@ -49,4 +49,56 @@ Cinemaniac is a web-based application that simulates a real-world movie ticket b
     con = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:XE", "system", "tiger");
     stmt = con.createStatement();
 %>
+🏠 Home Page
+
+📝 Registration Page
+
+✉️ Contact Us Page
+
+🔐 Login Page
+
+👤 User Profile
+
+🔄 Change Password
+
+🎥 Movie & Theatre Search
+
+🧑‍💼 Admin Dashboard & Password Change
+
+🧠 System Architecture
+Follows MVC pattern:
+
+Model: Oracle DB
+
+View: JSP
+
+Controller: Servlets
+
+Deployed on Apache Tomcat for modular and scalable development
+
+📌 How to Run
+Import the project into Eclipse.
+
+Setup Oracle 10g DB and run the required table creation scripts.
+
+Configure Tomcat Server.
+
+Run the project and access via browser at http://localhost:8080/Cinemaniac
+🙌 Authors
+Project built as part of B.Tech (CSE) curriculum at Techno India University.
+
+Contributor: Anushka
+
+Cinemaniac/
+│
+├── README.md
+├── /screenshots/
+│   ├── ![Home Page](screenshots/pic1.jpg)
+│   ├── [Registration Page](screenshots/pic2.jpg)
+│   ├── [Contact Page](screenshots/pic3.jpg)
+│   ├── [login Page](screenshots/pic4.jpg)
+│   ├── [user_profile Page](screenshots/pic5.jpg)
+│   ├── [change_password Page](screenshots/pic6.jpg)
+│   ├── search.jpg
+│   ├── admin_dashboard.jpg
 
